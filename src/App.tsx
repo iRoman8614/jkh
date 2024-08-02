@@ -1,5 +1,5 @@
 import './App.css'
-import MeterList from './components/MeterList'
+import MeterList from './components/MeterList/MeterList'
 
 function App() {
   return (
